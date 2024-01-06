@@ -1,0 +1,61 @@
+############################
+## Author
+############################
+
+author:
+  name: "Xianwen Long"
+  image: author.jpeg
+  # greeting: "A simple LinkTree theme for Hugo :evergreen_tree:"
+  # icon: ":wave:" # outcomment (or remove) if you don't want to display the emoji
+
+
+############################
+## Links
+############################
+
+links:
+  - github: https://github.com/dravenk/
+  - gitlab: https://gitlab.com/dravenk
+  - twitter: https://twitter.com/longxianwen
+  - facebook: https://facebook.com/longxianwen
+  - slack: https://longxianwen.slack.com/archives/C0190UYMWHH
+  - website: https://longxianwen.net
+
+
+############################
+## Colunms of Links
+############################
+
+# between 2 & 6 columns are supported (both incl)
+columns: 5
+
+##############################
+## Monochromatic color scheme
+##############################
+
+# all links will be slate-700 (or slate-50 in dark mode)
+# https://tailwindcss.com/docs/customizing-colors
+monochrome: true
+
+###########################
+## Icon text
+###########################
+
+# add the icon name to each icon
+icontext: true
+
+############################
+## Tooltips
+############################
+
+# add tooltips on all icons
+# tooltip: true
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+# title: "Xianwen Long"
+# description: "Demo site build with L1nkr & Hugo"
+# images:
+#   - thumbnail.jpeg
