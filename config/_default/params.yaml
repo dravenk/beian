@@ -3,7 +3,7 @@
 ############################
 
 author:
-  name: "Xianwen Long"
+  name: "Loong"
   image: author.jpeg
   # greeting: "A simple LinkTree theme for Hugo :evergreen_tree:"
   # icon: ":wave:" # outcomment (or remove) if you don't want to display the emoji
@@ -14,20 +14,31 @@ author:
 ############################
 
 links:
+  - website: https://longxianwen.net
   - github: https://github.com/dravenk/
+  - drupal: https://www.drupal.org/u/dravenk
   - gitlab: https://gitlab.com/dravenk
+
   - x-twitter: https://twitter.com/longxianwen
   - facebook: https://facebook.com/longxianwen
   - slack: https://longxianwen.slack.com/archives/C0190UYMWHH
-  - website: https://longxianwen.net
-
+  - telegram: https://t.me/samemax
+  
+  - email: https://mail.google.com/mail/u/0/#search/stevenleeloong%40gmail.com
+  - linkedin: https://www.linkedin.com/in/xianwenlong/
+  - discord: discordapp.com/users/1100236153988321352
+ 
+  - youtube: https://www.youtube.com/channel/UC6oXSSEMgKTFBuLooYbqQ1w
+  - dev: https://dev.to/dravenk
+  - stack-overflow: https://stackoverflow.com/users/8068041/draven-k
+  - paypal: https://paypal.me/longxianwen?country.x=C2&locale.x=zh_XC
 
 ############################
 ## Colunms of Links
 ############################
 
 # between 2 & 6 columns are supported (both incl)
-columns: 6
+columns: 5
 
 ##############################
 ## Monochromatic color scheme
