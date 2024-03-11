@@ -13,3 +13,8 @@ docker run --rm -d --name beian -p 1313:1313 \
 ```
 git submodule update --init
 ```
+
+
+```
+docker run --rm  -v ${PWD}:/src  hugomods/hugo hugo
+```
